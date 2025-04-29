@@ -66,4 +66,4 @@ else:
 
     # Celebrate if it's healthy
     if detected_disease == 'Healthy':
-        st.text("🎉 The mango leaf is healthy! 🎉")
+        st.text(" The mango leaf is healthy! ")
